@@ -1,5 +1,6 @@
 #Program to calculate total price of book based on given inputs.
 #Defining class book
+
 class book:
     #Accepting input from the user
     def accept_input (self):
